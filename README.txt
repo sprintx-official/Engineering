@@ -22,6 +22,11 @@ CURRENT DOCUMENTS
    • Automated AI code review setup for GitHub pull requests
    • Includes: Step-by-step setup, video tutorials, troubleshooting, FAQ
 
+2. AI-Prompt-Injection-Security-Guide.txt
+   • Securing system prompts in AI chat applications
+   • Includes: Defense techniques, ready-to-use TypeScript utility functions,
+     integration examples, quick reference checklist
+
 
 MORE DOCUMENTS COMING SOON
 ---------------------------
@@ -65,8 +70,9 @@ FOR TEAM LEADS
 ================================================================================
 
 resource-documents/
-├── README.txt                           # This file - Start here
-├── AI-PR-Review-Setup-Guide.txt        # AI PR review guide
+├── README.txt                                  # This file - Start here
+├── AI-PR-Review-Setup-Guide.txt               # AI PR review guide
+├── AI-Prompt-Injection-Security-Guide.txt     # Prompt injection security guide
 └── (additional guides will be added here)
 
 
@@ -129,6 +135,7 @@ Maintained by: Development Team
 Last Updated: February 2026
 
 Version History:
+  v1.1.0 - Added AI Prompt Injection Security guide
   v1.0.0 - Initial release with AI PR Review guide
 
 
